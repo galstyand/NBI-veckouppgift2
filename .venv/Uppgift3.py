@@ -8,3 +8,9 @@ elif difference < 0:
     print("Liverpool vann med " + str(abs(difference)) + " mål")
 else:
     print("Oavgjort")
+
+#testfall för att testa koden
+#1. Tottenham 1, Liverpool 0. Resultat: Tottenham vann med 1 mål
+#2. Tottenham 0, Liverpool 1. Resultat: Liverpool vann med 1 mål
+#1. Tottenham 1, Liverpool 1. Resultat: Oavgjort
+
